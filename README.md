@@ -10,5 +10,5 @@ Currently studying software engineering at [ITMO University](https://itmo.ru)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=prussian)](https://git.io/streak-stats) 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=worthant&hide_rank=true&show_icons=true&include_all_contribs=true&include_all_commits=true&theme=prussian&count_private=true&hide=stars,prs,contribs)   
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&repo=Profile)](https://github.com/anuraghazra/github-readme-stats)
 
