@@ -7,7 +7,7 @@
 I'm Boris, a student from St. Petersburg, Russia.  
 Currently studying software engineering at [ITMO University](https://itmo.ru)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&&date_format=Mj[,Y]&line_height=20&theme=prussian)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&date_format=Mj[,Y]&line_height=20&theme=prussian)](https://git.io/streak-stats) 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=worthant&hide_rank=true&card_width=200&hide_title=true&show_icons=true&include_all_contribs=true&include_all_commits=true&theme=prussian&count_private=true&hide=stars,prs,contribs)   
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=prussian&repo=Portfolio)](https://github.com/worthant/Portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=prussian&repo=university-projects)](https://github.com/worthant/university-projects)
