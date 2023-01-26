@@ -7,4 +7,4 @@
 I'm Boris, a student from St. Petersburg, Russia.  
 Currently studying software engineering at [ITMO University](https://itmo.ru)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=worthant&count_private=true&hide=stars,prs,contribs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=worthant&show_icons=true&bg_color=00000000&count_private=true&hide=stars,prs,contribs)
