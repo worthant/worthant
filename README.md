@@ -1,4 +1,4 @@
-### Hello! <img src="https://media0.giphy.com/media/76Ezod7CxRDqivd57V/giphy.gif?cid=ecf05e471j4ci9qjwxyomsxqf9z12af2r6yk8dnxbclpfv6m&rid=giphy.gif&ct=s" width="29px">
+### Hello! <img src="https://media0.giphy.com/media/76Ezod7CxRDqivd57V/giphy.gif?cid=ecf05e471j4ci9qjwxyomsxqf9z12af2r6yk8dnxbclpfv6m&rid=giphy.gif&ct=s" width="50px">
 
 <!--
 **worthant/worthant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
