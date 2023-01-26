@@ -13,6 +13,6 @@ Currently studying software engineering at [ITMO University](https://itmo.ru)
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=prussian" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app">
   <img align="center" src="ttps://github-readme-stats.vercel.app/api?username=worthant&hide_rank=true&show_icons=true&include_all_contribs=true&include_all_commits=true&theme=prussian&count_private=true&hide=stars,prs,contribs" />
 </a>
