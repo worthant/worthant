@@ -4,5 +4,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/adagio_sostenuto)](https://t.me/adagio_sostenuto)
 ![Visitors Badge](https://komarev.com/ghpvc/?username=worthant&style=flat-square&label=Visitors)
 
-I'm Boris, a student from St. Petersburg, Russia.
-                  Currently studying software engineering at [ITMO University](https://itmo.ru)
+I'm Boris, a student from St. Petersburg, Russia.\\
+Currently studying software engineering at [ITMO University](https://itmo.ru)
