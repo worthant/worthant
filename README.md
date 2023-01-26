@@ -5,4 +5,5 @@
 ![Visitors Badge](https://komarev.com/ghpvc/?username=worthant&style=flat-square&label=Visitors)
 
 I'm Boris, a student from St. Petersburg, Russia.
+
 Currently studying software engineering at [ITMO University](https://itmo.ru)
