@@ -9,9 +9,9 @@
   I'm Boris, a student from St. Petersburg, Russia.  
   Currently studying software engineering at [ITMO University](https://itmo.ru)  
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=prussian)](https://git.io/streak-stats)
-
 </p>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=prussian)](https://git.io/streak-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=prussian&repo=Portfolio)](https://github.com/worthant/Portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=prussian&repo=university-projects)](https://github.com/worthant/university-projects)
 
