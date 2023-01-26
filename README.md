@@ -6,3 +6,5 @@
 
 I'm Boris, a student from St. Petersburg, Russia.  
 Currently studying software engineering at [ITMO University](https://itmo.ru)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,stars)
