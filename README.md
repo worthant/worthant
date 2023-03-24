@@ -7,7 +7,7 @@
 <p align="center">
 
   I'm Boris, a student from St. Petersburg, Russia.  
-  Currently studying software engineering at [ITMO University](https://itmo.ru)  
+  Currently studying Computer Science at [ITMO University](https://itmo.ru)  
 
 </p>
   
