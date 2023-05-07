@@ -11,7 +11,7 @@
 
 </p>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=prussian)](https://git.io/streak-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=prussian&repo=Portfolio)](https://github.com/worthant/Portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=prussian&repo=university-projects)](https://github.com/worthant/university-projects)
+|![LeetCode Stats](https://leetcard.jacoblin.cool/worthant?theme=nord&font=Archivo)|[![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=ayu-mirage)](https://git.io/streak-stats)|
+|:-:|:-:|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=react&repo=Portfolio)](https://github.com/worthant/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=react&repo=university-projects)](https://github.com/worthant/university-projects)|
 
