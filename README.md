@@ -15,3 +15,11 @@
 |:-:|:-:|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=react&repo=Portfolio)](https://github.com/worthant/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=react&repo=university-projects)](https://github.com/worthant/university-projects)|
 
+---
+
+<details>
+  <summary><h2>Wakatime stats</h2></summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=worthant&layout=compact" />
+</a>
+</details>
