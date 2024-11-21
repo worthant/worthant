@@ -7,13 +7,13 @@
 <p>
 
   I'm Boris, a student from St. Petersburg, Russia.  
-  Currently studying Computer Science at [ITMO University](https://itmo.ru)  
+  Currently studying CSE at [ITMO University](https://itmo.ru)
 
+  📒 **Learnings are documented in my [opensource educational organization](https://github.com/Imtjl#-studying-journey-beasts-)** 📒
 </p>
   
 |![LeetCode Stats](https://leetcard.jacoblin.cool/worthant?theme=nord&font=Archivo)|[![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=ayu-mirage)](https://git.io/streak-stats)|
 |:-:|:-:|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=react&repo=Portfolio)](https://github.com/worthant/Portfolio)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=worthant&theme=react&repo=university-projects)](https://github.com/worthant/university-projects)|
 
 ---
 
