@@ -12,7 +12,7 @@
   📒 **Learnings are documented in my [opensource educational organization](https://github.com/Imtjl#-studying-journey-beasts-)** 📒
 </p>
   
-|![LeetCode Stats](https://leetcard.jacoblin.cool/worthant?theme=nord&font=Archivo)|[![GitHub Streak](https://streak-stats.demolab.com/?user=worthant&line_height=20&theme=ayu-mirage)](https://git.io/streak-stats)|
+|![LeetCode Stats](https://leetcard.jacoblin.cool/worthant?theme=nord&font=Archivo)|[![GitHub Streak](https://github-readme-streak-stats-five-mu.vercel.app?user=worthant&theme=ayu-mirage&border_radius=5)](https://git.io/streak-stats)|
 |:-:|:-:|
 
 ---
